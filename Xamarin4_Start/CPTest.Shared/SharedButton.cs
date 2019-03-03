@@ -1,6 +1,6 @@
 ﻿// Copyright 2019, Danny Hacker, Apache License 2.0, Soli Deo Gloria
 using System;
-namespace CPTest
+namespace CPTest.Shared
 {
     public class SharedButton
     {
